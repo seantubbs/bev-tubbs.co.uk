@@ -21,6 +21,12 @@ nav a.bt-nav-font-sides {
     font-family: 'Dancing Script', cursive;
 }
 
+nav a.bt-nav-pic-sides {
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: 0;
+}
+
 body.home-body {
     /*    background-color: #E9FFDD;*/
     /*    background-color: #3A5743;*/
@@ -28,7 +34,7 @@ body.home-body {
     background-color: #F9F9F9;
     background-image: url(assets/white-paper2.jpg);
     background-repeat: repeat;
-    padding-top: 52px;
+    padding-top: 40px;
 }
 
 p,
@@ -63,11 +69,23 @@ img.pic {
     max-width: 600px;
 }
 
+img.pic-hr {
+    width: 80%;
+    max-width: 260px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+img.pic-leaf {
+    width: 1.7rem;
+    padding-top: 4px;
+}
+
 h3.top-pad {
     padding-top: 30px;
 }
 
 h4.bottom-pad {
-    padding-top: 20px;
+    padding-top: 10px;
     padding-bottom: 50px;
 }
