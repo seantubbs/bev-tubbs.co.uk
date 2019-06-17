@@ -1,11 +1,12 @@
 nav.bt-nav {
-/*    background-color: #3A5743;*/
+    /*    background-color: #3A5743;*/
     background-color: #457254;
+    padding: 0;
 }
 
 nav a.bt-nav-font {
     color: #E9FFDD;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     padding: 0;
     margin: 0;
     font-family: 'Dancing Script', cursive;
@@ -13,7 +14,7 @@ nav a.bt-nav-font {
 
 nav a.bt-nav-font-sides {
     color: #FEEDF7;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     padding-right: 10px;
     padding-left: 10px;
     margin: 0;
@@ -22,11 +23,12 @@ nav a.bt-nav-font-sides {
 
 body.home-body {
     /*    background-color: #E9FFDD;*/
+    /*    background-color: #3A5743;*/
     /*    background-color: #FEFBFC;*/
     background-color: #F9F9F9;
     background-image: url(assets/white-paper2.jpg);
     background-repeat: repeat;
-    padding-top: 94px;
+    padding-top: 52px;
 }
 
 p,
@@ -40,9 +42,9 @@ h5,
 h6 {
     font-family: 'Annie Use Your Telescope', cursive;
     font-weight: 300;
-/*    color: #3A5743;*/
+    /*    color: #3A5743;*/
     color: #565656;
-/*    color: #25382B;*/
+    /*    color: #25382B;*/
 }
 
 div.main-col {
