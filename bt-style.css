@@ -1,5 +1,6 @@
 nav.bt-nav {
-    background-color: #3A5743;
+/*    background-color: #3A5743;*/
+    background-color: #457254;
 }
 
 nav a.bt-nav-font {
@@ -21,13 +22,27 @@ nav a.bt-nav-font-sides {
 
 body.home-body {
     /*    background-color: #E9FFDD;*/
-    background-color: #FEFAFC;
+    /*    background-color: #FEFBFC;*/
+    background-color: #F9F9F9;
+    background-image: url(assets/white-paper2.jpg);
+    background-repeat: repeat;
+    padding-top: 94px;
 }
 
-p, a, li, h1, h2, h3, h4, h5, h6 {
+p,
+a,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Annie Use Your Telescope', cursive;
     font-weight: 300;
-    color: #3A5743;
+/*    color: #3A5743;*/
+    color: #565656;
+/*    color: #25382B;*/
 }
 
 div.main-col {
@@ -36,7 +51,7 @@ div.main-col {
 }
 
 h2 {
-    padding-top: 20px;
+    padding-top: 30px;
     padding-bottom: 20px;
     font-size: 2.5rem;
 }
@@ -47,9 +62,10 @@ img.pic {
 }
 
 h3.top-pad {
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 h4.bottom-pad {
+    padding-top: 20px;
     padding-bottom: 50px;
 }
