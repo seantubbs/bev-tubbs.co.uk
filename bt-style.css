@@ -6,8 +6,8 @@ nav.bt-nav {
 
 nav a.bt-nav-font {
     color: #E9FFDD;
-    font-size: 1.5rem;
-    padding: 0;
+    font-size: 1.8rem;
+    padding: 5px 0px;
     margin: 0;
     font-family: 'Dancing Script', cursive;
 }
@@ -34,7 +34,7 @@ body.home-body {
     background-color: #F9F9F9;
     background-image: url(assets/white-paper2.jpg);
     background-repeat: repeat;
-    padding-top: 40px;
+    padding-top: 53px;
 }
 
 p,
@@ -58,9 +58,17 @@ div.main-col {
     padding: 0;
 }
 
+div.left-main-col {
+    text-align: right;
+}
+
+div.right-main-col {
+    text-align: left;
+}
+
 h2 {
-    padding-top: 30px;
-    padding-bottom: 20px;
+    padding-top: 25px;
+    padding-bottom: 0px;
     font-size: 2.5rem;
 }
 
@@ -70,19 +78,19 @@ img.pic {
 }
 
 img.pic-hr {
-    width: 80%;
-    max-width: 260px;
+    width: 60%;
+    max-width: 200px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
 img.pic-leaf {
-    width: 1.7rem;
-    padding-top: 4px;
+    width: 2rem;
+    padding-top: 5px;
 }
 
 h3.top-pad {
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 h4.bottom-pad {
